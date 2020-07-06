@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReadSensorData</string>
+    <string-array name="HAR_array">
+        <item>Walking</item>
+        <item>Sitting</item>
+        <item>Jogging</item>
+        <item>Standing</item>
+        <item>Upstair</item>
+        <item>Downstair</item>
+    </string-array>
+</resources>
